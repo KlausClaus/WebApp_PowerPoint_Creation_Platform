@@ -1,4 +1,4 @@
-# Assessment 4 - ReactJS: Presto
+# ReactJS: Presto
 
 1. Background & Motivation
 2. The Task (Frontend)
